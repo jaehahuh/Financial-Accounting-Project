@@ -8,9 +8,9 @@ Using the financial statements of Apple Inc. and Microsoft, Inc., respectively, 
 
 **2. Financial Statements**
 
-Apple: 10-K dated 10/29/2021 Resource:https://investor.apple.com/investor-relations/default.aspx
+Apple: 10-K dated 10/29/2021 (Resource: https://investor.apple.com/investor-relations/default.aspx)
 
-Microsoft: 10-K dated 07/29/2021 Resource:https://www.microsoft.com/en-us/Investor/sec-filings.aspx
+Microsoft: 10-K dated 07/29/2021 (Resource: https://www.microsoft.com/en-us/Investor/sec-filings.aspx)
 
 **3. Ratio Comparison**
 
