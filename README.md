@@ -2,16 +2,17 @@
 ## Author: Jaeha Huh
 ### Program software: MS Excel
 
-1. Goal
+**1. Goal**
 
 Using the financial statements of Apple Inc. and Microsoft, Inc., respectively, the financial ratios are calculated and compared, and the performance of the two companies is commented upon according to the ratio calculation.
 
-2. Financial Statements
+**2. Financial Statements**
 
 Apple: 10-K dated 10/29/2021 Resource:https://investor.apple.com/investor-relations/default.aspx
+
 Microsoft: 10-K dated 07/29/2021 Resource:https://www.microsoft.com/en-us/Investor/sec-filings.aspx
 
-3. Ratio Comparison
+**3. Ratio Comparison**
 
 1) Earnings per Share of Common Stock
 2) Current Ratio
